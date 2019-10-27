@@ -3,3 +3,5 @@
 source ./venv/bin/activate
 
 python fourier.py
+
+deactivate
